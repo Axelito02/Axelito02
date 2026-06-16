@@ -48,7 +48,7 @@ Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnolo
 
 ## 📂 Proyectos Destacados
 
-# Gases de Occidente (GdO) | 2024
+### Gases de Occidente (GdO) | 2024
 
 Rol: Diseñador UX/UI y Desarrollador Frontend
 
@@ -78,7 +78,7 @@ Tecnologías
 [Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO)
 </details>
 
-# Ritual of Madness | Universidad ICESI | 2024
+### Ritual of Madness | Universidad ICESI | 2024
 
 Rol: Diseñador UX/UI y Desarrollador Full Stack
 
@@ -116,6 +116,7 @@ Tecnologías
 - Desarrollo Full Stack
 
 [Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game)
+<br>
 [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
 </details>
 
@@ -140,6 +141,6 @@ Tecnologías
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/alexander-rueda-venegas/)
+[Linkedin](https://www.linkedin.com/in/alexander-rueda-venegas/)
 
 [Behance](https://www.behance.net/alexanderruedav)
