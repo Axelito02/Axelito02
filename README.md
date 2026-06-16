@@ -53,8 +53,9 @@ Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnolo
 Rol: Diseñador UX/UI y Desarrollador Frontend
 
 <details>
-<summary>Descripción</summary>
+<summary>Información sobre el proyecto</summary>
 
+Descripción
 <p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
 
 Contribuciones
@@ -81,11 +82,10 @@ Tecnologías
 Rol: Diseñador UX/UI y Desarrollador Full Stack
 
 <details>
-<summary>Descripción</summary>
+<summary>Información sobre el proyecto</summary>
 
+Descripción
 <p>Diseño y desarrollo de un juego multijugador basado en roles ocultos, votación por mayoría y toma de decisiones estratégicas. El proyecto integró elementos físicos y digitales para crear una experiencia interactiva donde los jugadores debían colaborar, debatir y descubrir identidades ocultas para cumplir diferentes condiciones de victoria.</p>
-
-</details>
 
 Contribuciones
 
@@ -114,6 +114,7 @@ Tecnologías
 - Desarrollo Full Stack
 
 [Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game)
+</details>
 
 ---
 
