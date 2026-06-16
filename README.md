@@ -139,6 +139,4 @@ Tecnologías
 
 ## 📫 Contacto
 
-[Linkedin](https://www.linkedin.com/in/alexander-rueda-venegas/)
-
-[Behance](https://www.behance.net/alexanderruedav)
+[Linkedin](https://www.linkedin.com/in/alexander-rueda-venegas/) | [Behance](https://www.behance.net/alexanderruedav)
