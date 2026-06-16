@@ -42,6 +42,13 @@ Actualmente estoy fortaleciendo mis habilidades en Frontend mientras continúo e
 
 ---
 
+## 🧠 Metodologías
+
+- Scrum (trabajo iterativo y gestión ágil de proyectos)
+- Design Thinking (diseño centrado en el usuario y resolución de problemas)
+
+---
+
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/alexander-rueda-venegas/)
