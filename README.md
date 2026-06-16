@@ -44,8 +44,8 @@ Actualmente estoy fortaleciendo mis habilidades en Frontend mientras continúo e
 
 ## 📫 Contacto
 
-LinkedIn
+[LinkedIn](www.linkedin.com/in/alexander-rueda-venegas)
 
-Behance
+[Behance](https://www.behance.net/alexanderruedav)
 
-Correo
+[Correo](Alexvenegas183@gmail.com)
