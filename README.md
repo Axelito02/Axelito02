@@ -51,9 +51,9 @@ Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnolo
 
 ### Gases de Occidente (GdO) | 2024
 
-Rol: Diseñador UX/UI y Desarrollador Frontend
+**Rol:** Diseñador UX/UI y Desarrollador Frontend
 
-Descripción
+**Descripción**
 <p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
 
 <details>
@@ -82,9 +82,9 @@ Tecnologías
 
 ### Ritual of Madness | Universidad ICESI | 2024
 
-Rol: Diseñador UX/UI y Desarrollador Full Stack
+**Rol:** Diseñador UX/UI y Desarrollador Full Stack
 
-Descripción
+**Descripción**
 <p>Diseño y desarrollo de un juego multijugador basado en roles ocultos, votación por mayoría y toma de decisiones estratégicas. El proyecto integró elementos físicos y digitales para crear una experiencia interactiva donde los jugadores debían colaborar, debatir y descubrir identidades ocultas para cumplir diferentes condiciones de victoria.</p>
 
 <details>
