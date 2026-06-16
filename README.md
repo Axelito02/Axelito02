@@ -8,9 +8,9 @@ Frontend Developer • UX/UI Designer • DMI Student
 <details>
 <summary>Más información sobre mí</summary>
 
-Soy estudiante de Diseño de Medios Interactivos con interés en el desarrollo Frontend y la experiencia de usuario.
+<p>Soy estudiante de Diseño de Medios Interactivos con interés en el desarrollo Frontend y la experiencia de usuario.
 
-Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnología y usabilidad. Actualmente me encuentro fortaleciendo mis habilidades en React y explorando tecnologías Backend para ampliar mi capacidad de desarrollo.
+Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnología y usabilidad. Actualmente me encuentro fortaleciendo mis habilidades en React y explorando tecnologías Backend para ampliar mi capacidad de desarrollo.</p>
 
 </details>
 
