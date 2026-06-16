@@ -57,8 +57,6 @@ Rol: Diseñador UX/UI y Desarrollador Frontend
 
 <p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
 
-</details>
-
 Contribuciones
 
 - Diseño de la interfaz visual de la plataforma.
@@ -76,6 +74,7 @@ Tecnologías
 - Figma
 
 [Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO)
+</details>
 
 # Ritual of Madness | Universidad ICESI | 2024
 
