@@ -58,6 +58,7 @@ Descripción
 <details>
 <summary>Más información sobre el proyecto</summary>
 
+<br>
 Contribuciones
 
 - Diseño de la interfaz visual de la plataforma.
@@ -113,9 +114,9 @@ Tecnologías
 - CSS3
 - Figma
 - Desarrollo Full Stack
+</details>
 
 [Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game) | [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
-</details>
 
 ---
 
