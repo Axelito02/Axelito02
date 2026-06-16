@@ -59,7 +59,7 @@ Rol: Diseñador UX/UI y Desarrollador Frontend
 
 </details>
 
-<summary>Contribuciones</summary>
+Contribuciones
 
 - Diseño de la interfaz visual de la plataforma.
 - Construcción de componentes interactivos reutilizables.
@@ -75,6 +75,8 @@ Tecnologías
 - CSS3
 - Figma
 
+[Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO)
+
 # Ritual of Madness | Universidad ICESI | 2024
 
 Rol: Diseñador UX/UI y Desarrollador Full Stack
@@ -86,7 +88,7 @@ Rol: Diseñador UX/UI y Desarrollador Full Stack
 
 </details>
 
-<summary>Contribuciones</summary>
+Contribuciones
 
 - Participación en la conceptualización de las mecánicas del juego.
 - Diseño de la interfaz de usuario y experiencia interactiva.
@@ -111,6 +113,8 @@ Tecnologías
 - CSS3
 - Figma
 - Desarrollo Full Stack
+
+[Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game)
 
 ---
 
