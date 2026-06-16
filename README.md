@@ -52,8 +52,7 @@ Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnolo
 
 Rol: Diseñador UX/UI y Desarrollador Frontend
 
-Descripción
-<p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
+Descripción<p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
 
 <details>
 <summary>Más información sobre el proyecto</summary>
