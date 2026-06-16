@@ -115,7 +115,7 @@ Tecnologías
 - Figma
 - Desarrollo Full Stack
 
-[Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game)  [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
+[Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game) | [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
 </details>
 
 ---
