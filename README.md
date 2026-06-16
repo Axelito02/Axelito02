@@ -35,11 +35,10 @@ Actualmente estoy fortaleciendo mis habilidades en Frontend mientras continúo e
 
 ## 🌱 Actualmente Aprendiendo
 
-## 📈 Estadísticas
-
-[GitHub Stats]
-
-[Top Languages]
+- React avanzado
+- Node.js
+- APIs REST
+- Backend Development
 
 ---
 
