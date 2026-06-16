@@ -50,15 +50,14 @@ Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnolo
 
 ### Gases de Occidente (GdO) | 2024
 
+Rol: Diseñador UX/UI y Desarrollador Frontend
+
 Descripción
 <p>Colaboré en el diseño y desarrollo de una plataforma web orientada a optimizar la comunicación y el seguimiento del proceso de gasificación de construcciones. La solución permitió reducir la dependencia de registros físicos y centralizar la información técnica en un entorno digital.</p>
-
-Rol: Diseñador UX/UI y Desarrollador Frontend
 
 <details>
 <summary>Más información sobre el proyecto</summary>
 
-<br>
 Contribuciones
 
 - Diseño de la interfaz visual de la plataforma.
@@ -82,13 +81,13 @@ Tecnologías
 
 Rol: Diseñador UX/UI y Desarrollador Full Stack
 
+Descripción
+<p>Diseño y desarrollo de un juego multijugador basado en roles ocultos, votación por mayoría y toma de decisiones estratégicas. El proyecto integró elementos físicos y digitales para crear una experiencia interactiva donde los jugadores debían colaborar, debatir y descubrir identidades ocultas para cumplir diferentes condiciones de victoria.</p>
+
 <details>
 <summary>Información sobre el proyecto</summary>
 
 <br>
-Descripción
-<p>Diseño y desarrollo de un juego multijugador basado en roles ocultos, votación por mayoría y toma de decisiones estratégicas. El proyecto integró elementos físicos y digitales para crear una experiencia interactiva donde los jugadores debían colaborar, debatir y descubrir identidades ocultas para cumplir diferentes condiciones de victoria.</p>
-
 Contribuciones
 
 - Participación en la conceptualización de las mecánicas del juego.
