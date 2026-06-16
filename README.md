@@ -79,7 +79,6 @@ Tecnologías
 
 [Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO)
 
-<br>
 
 ### Ritual of Madness | Universidad ICESI | 2024
 
