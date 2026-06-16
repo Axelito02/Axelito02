@@ -1,10 +1,18 @@
-# Hola Soy Alexander Rueda Venegas
+<h1 align="center">
+👋 Hola, soy Alexander Rueda Venegas
+</h1>
+<p align="center">
+Frontend Developer • UX/UI Designer • DMI Student
+</p>
 
-Estudiante de Diseño de Medios Interactivos
+<details>
+<summary>Más información sobre mí</summary>
 
-Me apasiona la combinación entre diseño, experiencia de usuario y desarrollo web.
+Soy estudiante de Diseño de Medios Interactivos con interés en el desarrollo Frontend y la experiencia de usuario.
 
-Actualmente estoy fortaleciendo mis habilidades en Frontend mientras continúo explorando tecnologías Backend.
+Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnología y usabilidad. Actualmente me encuentro fortaleciendo mis habilidades en React y explorando tecnologías Backend para ampliar mi capacidad de desarrollo.
+
+</details>
 
 ---
 
@@ -21,16 +29,20 @@ Actualmente estoy fortaleciendo mis habilidades en Frontend mientras continúo e
 
 - Figma
 
-### Herramientas
+### Herramientas de desarrollo
 
 - Git
 - GitHub
 - VS Code
 
+### Productividad y Gestión
+
+- Notion
+
 ## 🧠 Metodologías
 
-- Scrum (trabajo iterativo y gestión ágil de proyectos)
-- Design Thinking (diseño centrado en el usuario y resolución de problemas)
+- Scrum
+- Design Thinking
 
 ---
 
