@@ -86,7 +86,7 @@ Descripción
 <p>Diseño y desarrollo de un juego multijugador basado en roles ocultos, votación por mayoría y toma de decisiones estratégicas. El proyecto integró elementos físicos y digitales para crear una experiencia interactiva donde los jugadores debían colaborar, debatir y descubrir identidades ocultas para cumplir diferentes condiciones de victoria.</p>
 
 <details>
-<summary>Información sobre el proyecto</summary>
+<summary>Más información sobre el proyecto</summary>
 
 <br>
 Contribuciones
