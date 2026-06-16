@@ -8,7 +8,7 @@ Diseñador de Medios Interactivos • Desarrollador Frontend • Diseñador UX/U
 <details>
 <summary>Más información sobre mí</summary>
 
-<p>Soy Alexander Rueda Venegas Diseñador de Medios Interactivos con interés en el desarrollo Frontend y la experiencia de usuario.
+<p>Soy Diseñador de Medios Interactivos con interés en el desarrollo Frontend y la experiencia de usuario.
 
 Disfruto crear interfaces funcionales y accesibles que combinen diseño, tecnología y usabilidad. Actualmente me encuentro fortaleciendo mis habilidades en React y explorando tecnologías Backend para ampliar mi capacidad de desarrollo.</p>
 
