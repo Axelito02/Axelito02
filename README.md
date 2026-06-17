@@ -77,7 +77,7 @@ Tecnologías
 - Figma
 </details>
 
-[Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO) ↗
+[Ver proyecto en Behance](https://www.behance.net/gallery/200259979/CloudTrack-GDO)
 
 
 ### Ritual of Madness | Universidad ICESI | 2024
@@ -118,7 +118,7 @@ Tecnologías
 - Desarrollo Full Stack
 </details>
 
-[Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game)↗ | [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
+[Ver proyecto en Behance](https://www.behance.net/gallery/193558463/Ritual-of-madness-Card-Game) | [Ver repositorio](https://github.com/Axelito02/Rituals-of-madness)
 
 ---
 
