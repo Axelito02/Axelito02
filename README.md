@@ -132,13 +132,15 @@ Tecnologías
 ---
 
 ## 📈 Estadísticas
-
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axelito02&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelito02&layout=compact&theme=github_dark)
+</div>
 
 ---
 
 ## 📫 Contacto
-
-[Linkedin](https://www.linkedin.com/in/alexander-rueda-venegas/) | [Behance](https://www.behance.net/alexanderruedav)
+<div style="display: flex; flex-direction: row ; justify-content: center; align-items: center;">
+[Linkedin](https://www.linkedin.com/in/alexander-rueda-venegas/) | [Behance](https://www.behance.net/alexanderruedav)  
+</div>
